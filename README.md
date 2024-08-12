@@ -2,7 +2,6 @@ Check out the live demo
 
 [Demo](https://seriuksergii.github.io/nothing-landing-page/)
 
-Link to layout:
 
 [Link to layout](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&t=L7eKz5YKLN0m5WxR-0)
 
