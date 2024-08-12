@@ -5,4 +5,4 @@ SCSS (Sass): The styling is done using the Sass preprocessor, which allows for e
 Flexbox and Grid Layout: Applied to create a responsive and flexible page structure, ensuring proper content display on various devices.
 SVG: Used for icons and logos, providing high-quality graphics at different scales.
 Responsive Design: The site is optimized for proper display on various screens, from mobile devices to large monitors.
-- [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+- [DEMO LINK](https://seriuksergii.github.io/nothing-landing-page/)
