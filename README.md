@@ -29,7 +29,9 @@ https://github.com/SeriukSergii/nothing-landing-page.git
 
 
 Technologies Used:
+
 •	SCSS
+
 •	HTML
           
 
