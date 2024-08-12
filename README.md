@@ -1,29 +1,39 @@
-This project represents a modern website for the company "Nothing," which includes various sections such as recommended products, categories, company information, and a contact form. The website features a responsive design, ensuring an excellent appearance across different devices, including desktops, tablets, and mobile phones. The site is built using the following technologies:
+Demo
 
-HTML5: The primary structure of the pages and semantic placement of elements.
-SCSS (Sass): The styling is done using the Sass preprocessor, which allows for efficient organization of CSS code through variables, mixins, and nested styles. This ensures better support for responsive design and flexible styling adjustments.
-Flexbox and Grid Layout: Applied to create a responsive and flexible page structure, ensuring proper content display on various devices.
-SVG: Used for icons and logos, providing high-quality graphics at different scales.
-Responsive Design: The site is optimized for proper display on various screens, from mobile devices to large monitors.
-- [DEMO LINK](https://seriuksergii.github.io/nothing-landing-page/)
-- [LINK ON LAYOUT](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&t=L7eKz5YKLN0m5WxR-0)
+Check out the live demo
 
-How to Run the Project
-Clone the Repository:
+[Demo Link](https://seriuksergii.github.io/nothing-landing-page/)
 
-git clone https://github.com/SeriukSergii/nothing-landing-page.git
+Link on layout:
 
-cd nothing-landing-page
+[Link on layout](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&t=L7eKz5YKLN0m5WxR-0)
 
-Install Dependencies:
-Make sure you have Node.js installed. Then run:
-npm install
+Installation
 
-Run the Project:
-Start the development server with:
+To run this project locally:
 
-npm start
+1.	Clone the Repository
 
-The project should now be running on http://localhost:3000.
+https://github.com/SeriukSergii/nothing-landing-page.git
+
+2.	Navigate to the project directory
+
+         cd nothing-landing-page
+
+3.	Install dependencies
+
+          npm install
+
+4.	Start the application
+ 
+          npm start
+
+
+
+Technologies Used:
+•	SCSS
+•	HTML
+          
+
 
 
