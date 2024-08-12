@@ -6,4 +6,4 @@ Flexbox and Grid Layout: Applied to create a responsive and flexible page struct
 SVG: Used for icons and logos, providing high-quality graphics at different scales.
 Responsive Design: The site is optimized for proper display on various screens, from mobile devices to large monitors.
 - [DEMO LINK](https://seriuksergii.github.io/nothing-landing-page/)
-- [LINK ON LAYOUT] (https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&t=L7eKz5YKLN0m5WxR-0)
+- [LINK ON LAYOUT](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&t=L7eKz5YKLN0m5WxR-0)
