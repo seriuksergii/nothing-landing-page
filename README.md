@@ -7,3 +7,21 @@ SVG: Used for icons and logos, providing high-quality graphics at different scal
 Responsive Design: The site is optimized for proper display on various screens, from mobile devices to large monitors.
 - [DEMO LINK](https://seriuksergii.github.io/nothing-landing-page/)
 - [LINK ON LAYOUT](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&t=L7eKz5YKLN0m5WxR-0)
+
+How to Run the Project
+Clone the Repository:
+
+git clone https://github.com/SeriukSergii/nothing-landing-page.git
+
+cd nothing-landing-page
+
+Install Dependencies:
+Make sure you have Node.js installed. Then run:
+npm install
+
+Run the Project:
+Start the development server with:
+
+npm start
+
+The project should now be running on http://localhost:3000.
