@@ -1,5 +1,3 @@
-Demo
-
 Check out the live demo
 
 [Demo Link](https://seriuksergii.github.io/nothing-landing-page/)
